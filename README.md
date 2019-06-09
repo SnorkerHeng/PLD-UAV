@@ -8,9 +8,13 @@ PLDM | 237 | 50 | 540X360 | 0.0075
 
 
 ### PLDU
-Here are some samples from PLDU. The dataset is available [here](https://drive.google.com/open?id=1XjoWvHm2I8Y4RV_i9gEd93ZP-KryjJlm)
+Here are some samples from PLDU. The dataset is available on [Google Drive](https://drive.google.com/open?id=1XjoWvHm2I8Y4RV_i9gEd93ZP-KryjJlm)
+
+![sample1](PLDU.jpg)
 
 ### PLDM
-Here are some samples from PLDM. The dataset is available [here](https://drive.google.com/open?id=1bKFEuXKHRsy0tnOnoEVW6oRi7hS5oekr)
+Here are some samples from PLDM. The dataset is available [Google Drive](https://drive.google.com/open?id=1bKFEuXKHRsy0tnOnoEVW6oRi7hS5oekr)
+
+![sample2](PLDM.jpg)
 
 ### Benchmark
