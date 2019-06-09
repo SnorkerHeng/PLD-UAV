@@ -18,3 +18,7 @@ Here are some samples from PLDM. The dataset is available [Google Drive](https:/
 ![sample2](PLDM.jpg)
 
 ### Benchmark
+For evaluation, we refer to the boundary detection benchmark developed in [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) dataset.
+The accuracy of power line detection is measured using four main criteria: F1-measure of optimal
+dataset scale threshold (ODS), F1-measure of optimal image scale threshold (OIS), false positive rate and
+precision-recall curve.
